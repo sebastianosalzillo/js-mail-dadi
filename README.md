@@ -22,4 +22,22 @@ se email e presente nella lista allora
 
 
 
-###
+# ESERCIZIO random
+Gioco dei dadi
+Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
+Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+
+### DATI
+numero random giocatore
+numero random  computer
+
+
+
+
+### SVOLGIMENTO
+generare numeri random
+se giocatore ha punteggio più alto allora stampa messaggio di vittoria
+altrimenti se
+stampa hai perso
+altrimenti e pari
